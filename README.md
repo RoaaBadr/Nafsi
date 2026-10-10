@@ -36,7 +36,7 @@ Nafsi is a comprehensive mental health web application designed to provide users
 - **Bootstrap / MDB** - UI components and styling
 - **Flowise Embed** - Chatbot integration
 
-### Backend (Optional)
+### Backend
 - **Node.js** - Server runtime
 - **Express** - Web framework
 - **MongoDB** - Database
@@ -83,10 +83,3 @@ The application can use either:
 2. **Backend API** - Connect to a backend server for dynamic data
 
 To switch to backend API, update the `useFetch.jsx` hook and related components to fetch from your API endpoints.
-
-## License
-This project is for educational purposes.
-
-## Authors
-- Developed as a graduation project
-
